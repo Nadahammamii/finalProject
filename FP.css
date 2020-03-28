@@ -1,0 +1,84 @@
+body {
+  color: #000;
+  background-color: #f4f4f4;
+  transition: background-color 1s ease;
+}
+
+.panel {
+  min-height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: sans-serif;
+  
+}
+
+/* changing colours */
+.color-violet {
+  background-color: #81794b;
+}
+.color-indigo {
+  background-color: #0d1930;
+}
+.color-blue {
+  background-color: #E2A926;
+}
+.color-green {
+  background-color: #96AAA8;
+}
+.color-yellow {
+  background-color: #BD3839;
+}
+.color-orange {
+  background-color: #6D4B42;
+}
+.color-red {
+  background-color: #4B2424;
+}
+.color-r1 {
+  background-color: #591C09;
+}
+
+.color-r2 {
+  background-color: #CC3603;
+}
+.color-r3 {
+  background-color:#BDAB83;
+}
+.color-r4 {
+  background-color: #f2293a;
+}
+.color-r5 {
+  background-color: #C8710E;
+}
+.color-r5 {
+  background-color: #A88948;
+}
+.color-r6 {
+  background-color: #C46676;
+}
+.color-r7 {
+  background-color:#05355D;
+}
+body {
+  text-align: center;
+  font-size: 120%;
+  line-height: 1.618;
+}
+h1,
+h2 {
+  font-size: 3em;
+  letter-spacing: -0.05em;
+  line-height: 1.1;
+}
+p {
+  max-width: 30em;
+  margin-bottom: 1.618em;
+}
+a {
+  color: #4332cf;
+}
+.caption {
+  font-family: "Old Standard TT", serif;
+  color: #150d0b;
+}
